@@ -17,7 +17,7 @@
 3 áreas
 
 * Working directory (WD): directorio de trabajo donde se van agregando o quitando los archivos durante el desarrollo.
-* 
+* Staging area (SA): 
 
 
 
